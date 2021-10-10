@@ -1,0 +1,22 @@
+nav {
+    background-image: url("/images/logo.png");
+    background-size: 60px;
+    background-repeat: no-repeat;
+    height: 60px;
+    padding-left: 65px;
+    padding-top: 22px;
+    word-spacing: 20px;
+    color: #51279b;
+}
+
+.main {
+    padding-left: 65px;
+}
+
+a {
+    text-decoration: unset;
+}
+
+a:hover {
+    color: #8662c7;
+}
