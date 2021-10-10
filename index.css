@@ -1,0 +1,60 @@
+header {
+    background-image: url("/images/florence.jpg");
+    background-size: cover;
+    width: 100%;
+    min-height: 500px;
+    
+}
+
+nav {
+    background-image: url("/images/logo.png");
+    background-size: 60px;
+    background-repeat: no-repeat;
+    height: 60px;
+    padding-left: 65px;
+    padding-top: 22px;
+    word-spacing: 20px;
+    color: #51279b;
+}
+
+.main {
+    padding: 65px;
+    color: white;
+}
+
+h1 {
+    
+    font-size: 48px;
+}
+
+a {
+    text-decoration: unset;
+}
+
+a:hover {
+    color: #8662c7;
+}
+
+.cards {
+    display: inline-block;
+    white-space: nowrap;
+    
+}
+
+.card1 {
+    display: inline-block;
+    vertical-align:  bottom;
+
+}
+
+.card2 {
+    display: inline-block;
+    vertical-align:  bottom;
+
+}
+
+.card3 {
+    display: inline-block;
+    vertical-align:  bottom;
+
+}
